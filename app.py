@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("🚀 My First Cross-Major Streamlit App")
+st.title("🚀 My First Streamlit App")
 st.write("Welcome! Modify the widgets below to see how interactive web apps work.")
 
 user_name = st.text_input("What is your name?", "Student")
